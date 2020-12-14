@@ -5,6 +5,7 @@ Quản lí có thể: thêm/sửa/xóa thông tin phòng, xem các báo cáo doa
 Nhân viên bán hàng có thể tìm phòng trống và đặt phòng theo yêu cầu của khách.
 Nhân viên lễ tân có thể tìm phòng trống theo yêu cầu trực tiếp của khách, checkin cho khách đã đặt phòng hoặc đặt phòng trực tiếp, checkout cho khách và in hóa đơn thanh toán cho khách
 Khách hàng sẽ được đặt phòng thông qua tiếp tân hoặc nhân viên bán hàng. Checkin, checkout và thanh toán thông qua tiếp tân.
+
 2 Business Objectives:
 Hoàn thành và chạy thử các tính năng và bảo mật của hệ thống trong 2 tháng.
 Đáp ứng nhu cầu được đưa ra.
